@@ -7,6 +7,19 @@
 按住 shift, 点鼠标右键, 选择“在此处打开Powershell窗口”  
 输入 python where_to_eat.py  
 按回车运行
+```bash
+PS C:\Users\xhs\Downloads\where_to_eat-master> python where_to_eat.py
+请告诉我你现在在哪里？1宿舍，2饭堂，3图书馆，4教学楼，都不是？请输入5
+4
+最好的选择是:外婆家
+PS C:\Users\xhs\Downloads\where_to_eat-master> python where_to_eat.py
+请告诉我你现在在哪里？1宿舍，2饭堂，3图书馆，4教学楼，都不是？请输入5
+5
+你的坐标是多少？ 比如10,15
+5,9
+最好的选择是:九龙冰室
+PS C:\Users\xhs\Downloads\where_to_eat-master>
+```
 ## 文件介绍  
 foods.json 数据文件
 ```json
