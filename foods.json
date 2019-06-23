@@ -1,0 +1,50 @@
+[
+  {
+    "name": "外婆家",
+    "location": {
+      "x": 10,
+      "y": 15
+    },
+    "favorite": 9
+  },
+  {
+    "name": "太二酸菜鱼",
+    "location": {
+      "x": 10,
+      "y": 15
+    },
+    "favorite": 8
+  },
+  {
+    "name": "九龙冰室",
+    "location": {
+      "x": 10,
+      "y": 15
+    },
+    "favorite": 9
+  },
+  {
+    "name": "卡朋",
+    "location": {
+      "x": 10,
+      "y": 15
+    },
+    "favorite": 8
+  },
+  {
+    "name": "泰靓",
+    "location": {
+      "x": 10,
+      "y": 15
+    },
+    "favorite": 7
+  },
+  {
+    "name": "饭堂",
+    "location": {
+      "x": 9,
+      "y": 9
+    },
+    "favorite": 3
+  }
+]
